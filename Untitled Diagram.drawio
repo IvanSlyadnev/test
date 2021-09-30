@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T08:28:53.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.5" etag="osdIJ1Fz_keIp9bqoWt1" type="github"><diagram id="eljdMXhu0_WSPIQtSqgn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T08:32:45.201Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Zpd5T9bz_Y4Be1oqYUVg" version="15.3.5" type="github">
+  <diagram id="eljdMXhu0_WSPIQtSqgn" name="Page-1">
+    <mxGraphModel dx="1590" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-1" target="XudJxdpQxAtrRwLnoNJt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-2" target="XudJxdpQxAtrRwLnoNJt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-2" target="XudJxdpQxAtrRwLnoNJt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-2" value="Создание задачи&lt;br&gt;со статусом новая" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-5" value="Отправка уведомления исполнителю" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="262" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-9" value="Исполнитель нажал на кнопку выполнения задачи" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="322" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-9" target="XudJxdpQxAtrRwLnoNJt-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-13" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-14" target="XudJxdpQxAtrRwLnoNJt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-14" value="Прислать уведомление автору задачи об ее выполнении" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-16" target="XudJxdpQxAtrRwLnoNJt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-16" target="XudJxdpQxAtrRwLnoNJt-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-16" value="Автор принял задачу" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="750" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-21" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-22" value="Отправить уведомление пользователю об успешном выполнении задачи" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="860" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-23" target="XudJxdpQxAtrRwLnoNJt-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-23" value="Назначить задаче статус выполнено" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-29" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="760" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-30" value="Уведомить пользователя что его задача не принята и нужно переделать" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="750" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-35" target="XudJxdpQxAtrRwLnoNJt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XudJxdpQxAtrRwLnoNJt-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-35" value="Существует ли задача" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="303" y="450" width="154" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-39" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="565" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-41" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-42" value="Выдать ошибку о том что задача не существует" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XudJxdpQxAtrRwLnoNJt-44" value="Конец" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
